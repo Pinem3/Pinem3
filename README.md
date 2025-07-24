@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Pinem3
-- 👀 I’m interested in GameDev and desing
-- 🌱 I’m currently learning C# and C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in GameDev and FronEnd development
+- 🌱 I’m currently learning Dart and flutter
+- 📫 How to reach me:
+- Telegram: @Pinem3;
+- e-mail: Rjkzujh3@yandex.ru;
 
 <!---
 Pinem3/Pinem3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
